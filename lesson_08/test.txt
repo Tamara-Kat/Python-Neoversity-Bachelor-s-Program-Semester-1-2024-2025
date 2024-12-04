@@ -1,0 +1,4 @@
+Hello, world!
+Hello Python
+Женя хоче оператор with
+Hello, world!
