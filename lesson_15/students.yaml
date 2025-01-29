@@ -1,0 +1,13 @@
+students:
+- age: 21
+  gender: male
+  name: Oleksandr
+- age: 22
+  gender: male
+  name: Volodymyr
+- age: 23
+  gender: male
+  name: Denys
+- age: 16
+  gender: female
+  name: Тамара

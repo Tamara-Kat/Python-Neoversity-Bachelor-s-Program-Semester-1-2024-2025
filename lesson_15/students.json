@@ -1,0 +1,8 @@
+{
+  "students": [
+    { "name": "Oleksandr", "age": 21, "gender": "male", "married": true },
+    { "name": "Volodymyr", "age": 22, "gender": "male", "married": false },
+    { "name": "Denys", "age": 23, "gender": "male", "married": false },
+    { "name": "Тамара", "age": 16, "gender": "female", "married": false }
+  ]
+}

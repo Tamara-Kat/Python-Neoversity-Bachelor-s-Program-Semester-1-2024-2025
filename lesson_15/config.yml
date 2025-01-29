@@ -1,0 +1,9 @@
+common:
+  port: 8080
+  host: localhost
+db:
+  host: localhost
+  port: 27017
+  name: test
+  user: root
+  password: root
